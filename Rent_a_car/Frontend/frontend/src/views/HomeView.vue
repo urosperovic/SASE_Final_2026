@@ -1,4 +1,3 @@
-
 <script>
 import { TrainerService } from "@/services/trainer.service";
 import { SessionManager } from "@/utils/session.manager";
